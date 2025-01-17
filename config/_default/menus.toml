@@ -1,0 +1,61 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+#[[main]]
+#  name = "Demo"
+#  url = "#hero"
+#  weight = 10
+
+[[main]]
+  name = "近期动态"
+  url = "#posts"
+  weight = 5
+
+[[main]]
+  name = "研究项目"
+  url = "#projects"
+  weight = 10
+
+[[main]]
+  name = "团队成员"
+  url = "#pi"
+  weight = 20
+  
+[[main]]
+  name = "近期发表成果"
+  url = "#featured"
+  weight = 28
+
+[[main]]
+  name = "Lab Facilities"
+  url = "http://wiki.milab.wiki/display/LF"
+  weight = 40
+
+[[main]]
+  name = "Wiki"
+  url = "http://wiki.milab.wiki"
+  weight = 52
+
+[[main]]
+  name = "GitLab"
+  url = "http://git.milab.wiki"
+  weight = 54
+
+[[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 56
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

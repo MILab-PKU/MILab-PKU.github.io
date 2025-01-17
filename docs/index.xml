@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MILab</title>
+    <link>https://zifengtian.gitee.io/</link>
+      <atom:link href="https://zifengtian.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>MILab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zifengtian.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>MILab</title>
+      <link>https://zifengtian.gitee.io/</link>
+    </image>
+    
+    <item>
+      <title>医学影像与人工智能</title>
+      <link>https://zifengtian.gitee.io/project/med_imaging_and_ai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zifengtian.gitee.io/project/med_imaging_and_ai/</guid>
+      <description>&lt;p&gt;qweruiop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>视觉科学与诊疗技术研究</title>
+      <link>https://zifengtian.gitee.io/project/opthalomogy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zifengtian.gitee.io/project/opthalomogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分子影像应用与探针研发</title>
+      <link>https://zifengtian.gitee.io/project/molecule_imaging/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zifengtian.gitee.io/project/molecule_imaging/</guid>
+      <description>&lt;p&gt;qweruiop&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
