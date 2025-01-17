@@ -14,14 +14,14 @@
   weight = 5
 
 [[main]]
-  name = "研究项目"
+  name = "研究方向"
   url = "#projects"
   weight = 10
 
-[[main]]
-  name = "团队成员"
-  url = "#pi"
-  weight = 20
+#[[main]]
+#  name = "团队成员"
+#  url = "#pi"
+#  weight = 20
   
 [[main]]
   name = "近期发表成果"
@@ -30,12 +30,12 @@
 
 [[main]]
   name = "Lab Facilities"
-  url = "http://wiki.milab.wiki/display/LF"
+  url = "https://wiki.milab.wiki/display/LF"
   weight = 40
 
 [[main]]
   name = "Wiki"
-  url = "http://wiki.milab.wiki"
+  url = "https://wiki.milab.wiki"
   weight = 52
 
 [[main]]

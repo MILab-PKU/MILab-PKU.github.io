@@ -2,40 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | MILab</title>
-    <link>https://zifengtian.gitee.io/project/</link>
-      <atom:link href="https://zifengtian.gitee.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://192.168.31.84/project/</link>
+      <atom:link href="https://192.168.31.84/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zifengtian.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://192.168.31.84/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://zifengtian.gitee.io/project/</link>
+      <link>https://192.168.31.84/project/</link>
     </image>
     
     <item>
-      <title>医学影像与人工智能</title>
-      <link>https://zifengtian.gitee.io/project/med_imaging_and_ai/</link>
+      <title>多模态成像技术</title>
+      <link>https://192.168.31.84/project/opthalomogy/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian.gitee.io/project/med_imaging_and_ai/</guid>
-      <description>&lt;p&gt;qweruiop&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>视觉科学与诊疗技术研究</title>
-      <link>https://zifengtian.gitee.io/project/opthalomogy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian.gitee.io/project/opthalomogy/</guid>
+      <guid>https://192.168.31.84/project/opthalomogy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>分子影像应用与探针研发</title>
-      <link>https://zifengtian.gitee.io/project/molecule_imaging/</link>
+      <title>PET影像技术与应用</title>
+      <link>https://192.168.31.84/project/molecule_imaging/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian.gitee.io/project/molecule_imaging/</guid>
+      <guid>https://192.168.31.84/project/molecule_imaging/</guid>
       <description>&lt;p&gt;qweruiop&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>医学影像与人工智能</title>
+      <link>https://192.168.31.84/project/med_imaging_and_ai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://192.168.31.84/project/med_imaging_and_ai/</guid>
+      <description></description>
     </item>
     
   </channel>

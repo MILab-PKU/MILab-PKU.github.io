@@ -9,7 +9,7 @@ active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "团队成员"
-subtitle = "[查看全部团队成员>>](http://wiki.milab.wiki/display/SL/Lab+Members)"
+subtitle = "[查看全部团队成员>>](https://wiki.milab.wiki/display/SL/Lab+Members)"
 
 [content]
   # Choose which groups/teams of users to display.
@@ -57,4 +57,4 @@ subtitle = "[查看全部团队成员>>](http://wiki.milab.wiki/display/SL/Lab+M
  # CSS class.
  css_class = ""
 +++
-#### [前往MILab Publications页面查看全部发表成果>>](http://wiki.milab.wiki/display/SW/MILab+Publications)
+#### [前往MILab Publications页面查看全部发表成果>>](https://wiki.milab.wiki/display/SW/MILab+Publications)

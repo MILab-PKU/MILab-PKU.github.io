@@ -46,6 +46,6 @@ title = "团队成员"
  css_class = ""
 +++
 
-[wiki成员列表]: http://wiki.milab.wiki/display/SL/Lab+Members
+[wiki成员列表]: https://wiki.milab.wiki/display/SL/Lab+Members
 
 #### [查看全部成员>>][wiki成员列表]

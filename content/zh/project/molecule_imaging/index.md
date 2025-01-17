@@ -1,13 +1,13 @@
 ---
-title: 分子影像应用与探针研发
-summary: 分子影像应用与探针致力于利用现有的工程化手段探索分子影像在临床前研究的新技术、新应用，并开发针对性的探针。分子影像应用与探针的主要研究方向包括第二近红外窗口成像技术、非编码RNA的工程化应用，以及硼中子俘获技术。本实验室自行研发了适配多种成像模式的第二近红外窗口动物成像设备，并建立了化学合成与表征、细胞培养与评价、生物荧光成像等研究平台。
+title: PET影像技术与应用
+summary: PET影像技术与应用致力于利用最先进的工程化手段探索分子影像在临床（前）研究的新技术、新应用。本方向的主要研究内容包括PET系统仿真优化、物理学校正、图像重建、动力学建模以及基于人工智能的图像处理分析技术。在近十多年的探索中，本实验室自行研发了一系列适配PET/CT 以及PET/MRI等多模态多参数的分子成像设备以及特异性的核素探针，并建立了完善的图像重建与图像分析处理研究平台。
 tags:
 - 探针
 date: "2020-01-01T00:00:00Z"
-weight: 30
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://wiki.milab.wiki/pages/viewpage.action?pageId=3670064"
 
 # image:
 #   caption: ''

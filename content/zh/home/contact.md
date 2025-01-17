@@ -18,4 +18,4 @@ autolink = true
 email_form = 0
 +++
 
-### [联系MILab>>](http://wiki.milab.wiki/pages/viewpage.action?pageId=11337985)
+### [联系MILab>>](https://wiki.milab.wiki/pages/viewpage.action?pageId=11337985)
