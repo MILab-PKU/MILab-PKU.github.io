@@ -38,10 +38,10 @@
   url = "https://wiki.milab.wiki"
   weight = 52
 
-[[main]]
-  name = "GitLab"
-  url = "http://git.milab.wiki"
-  weight = 54
+# [[main]]
+#  name = "GitLab"
+#  url = "http://git.milab.wiki"
+#  weight = 54
 
 [[main]]
   name = "Gallery"
