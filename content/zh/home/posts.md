@@ -68,4 +68,4 @@ isCJKLanguage = true
  css_class = ""
 +++
 
-#### [如果你对MILab发生的事情感兴趣，请访问News Cluster查看>>](https://lvkykt9ukgn.feishu.cn/wiki/space/7348616054438068225?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)
+#### [如果你对MILab发生的事情感兴趣，请访问News Cluster查看>>](https://lvkykt9ukgn.feishu.cn/wiki/IRQ7w2OYri8T4Rkbmroc3xqxnTd?fromScene=spaceOverview)
