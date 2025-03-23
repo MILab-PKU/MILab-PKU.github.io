@@ -68,4 +68,4 @@ isCJKLanguage = true
  css_class = ""
 +++
 
-#### [如果你对MILab发生的事情感兴趣，请访问News Cluster查看>>](https://lvkykt9ukgn.feishu.cn/wiki/IRQ7w2OYri8T4Rkbmroc3xqxnTd?fromScene=spaceOverview)
+#### [如果你对MILab发生的事情感兴趣，请访问News Cluster查看>>](https://wiki.milab.wiki)
