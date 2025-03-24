@@ -68,4 +68,4 @@ subtitle = ""
  css_class = ""
 +++
 
-#### [前往MILab Publications页面查看全部发表成果>>](https://lvkykt9ukgn.feishu.cn/wiki/UhJYwH8xfi8kF0kHav2cAndsnjc?fromScene=spaceOverview)
+#### [前往MILab Publications页面查看全部发表成果>>](https://wiki.milab.wiki/display/SW/MILab+Publications)
