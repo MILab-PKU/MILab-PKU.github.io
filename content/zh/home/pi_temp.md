@@ -46,6 +46,6 @@ title = "团队成员"
  css_class = ""
 +++
 
-[wiki成员列表]: https://lvkykt9ukgn.feishu.cn/wiki/YfJjwLmy9iK0RLk51xUcTysxndc?fromScene=spaceOverview
+[wiki成员列表]: https://wiki.milab.wiki/display/SL/Lab+Members
 
 #### [查看全部成员>>][wiki成员列表]
